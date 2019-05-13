@@ -1,0 +1,16 @@
+# $Id$
+# Maintainer: James Kittsmiller (AJSlye) <james@nulogicsystems.com>
+
+pkgname=blackbird-settings-theming
+pkgver=$(date +%Y.%m)
+pkgrel=1
+pkgdesc="Default theming settings (Plasma + Qt + Gtk + Fonts + Cursor + Splash) for Blackbird OS"
+arch=('any')
+url='https://github.com/blackbird-os/blackbird-settings-theming'
+license=('GPL')
+
+package() {
+  cd ../..
+  cp -aR etc $pkgdir/
+  cp -aR usr $pkgdir/
+}
