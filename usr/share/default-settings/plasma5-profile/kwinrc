@@ -171,8 +171,8 @@ BorderSize=None
 ButtonsOnLeft=M
 ButtonsOnRight=IAX
 CloseOnDoubleClickOnMenu=true
-library=org.kde.kwin.aurorae
-theme=__aurorae__svg__FormaN
+library=org.kde.breeze
+theme=Breeze
 
 [Script-minimizeall]
 BorderActivate=3

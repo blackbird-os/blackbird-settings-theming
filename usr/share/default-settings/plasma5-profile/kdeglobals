@@ -131,7 +131,7 @@ Size=32
 
 [General]
 BrowserApplication[$e]=firefox.desktop
-ColorScheme=BlackbirdBlack
+ColorScheme=BreezeDark
 XftAntialias=true
 XftHintStyle=hintslight
 XftSubPixel=rgb
@@ -147,7 +147,7 @@ LookAndFeelPackage=org.kde.blackbird-black.desktop
 ShowIconsInMenuItems=true
 ShowIconsOnPushButtons=true
 contrast=0
-widgetStyle=kvantum
+widgetStyle=Breeze
 SingleClick=false
 WheelScrollLines=2
 
@@ -255,4 +255,4 @@ inactiveForeground=155,155,155
 MaximumRemoteSize=2621440000
 
 [Icons]
-Theme=Obsidian
+Theme=breeze-dark
