@@ -4,6 +4,7 @@ ShadowStrength=128
 
 [Windeco]
 AnimationsEnabled=false 
+ButtonSize=ButtonLarge
 DrawBackgroundGradient=false
 DrawSizeGrip=false
 
